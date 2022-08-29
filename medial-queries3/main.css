@@ -1,3 +1,67 @@
 body {
   background: peachpuff;
 }
+.container{
+  border: solid 1px black ;
+  display: flex;
+  flex-wrap: wrap;
+  
+}
+.a{
+  background-color: red;
+  height: 210px;
+  width: 100%;
+  margin-top: 5px;
+  margin-right: 30px;
+  margin-left: 10px;
+}
+.b{
+  background-color: blue;
+  width: 30%;
+  height: 200px;
+  margin: 10px;
+}
+.c{
+  background-color: black;
+  width: 30%;
+  height: 200px;
+  margin: 10px;
+}
+.d{
+  background-color: yellow;
+  width: 30%;
+  height: 200px;
+  margin: 10px;
+}
+.e{
+  background-color: green;
+  width:30%;
+  height: 200px;
+  margin: 10px;
+}
+.f{
+  background-color: aquamarine;
+  width: 30%;
+  height: 200px;
+  margin: 10px;
+}
+.g{
+  background-color: blueviolet;
+  width: 30%;
+  height: 200px;
+  margin: 10px;
+}
+.h{
+  background-color: whitesmoke;
+  width: 23%;
+  height: 400px;
+  margin-top: 10px;
+  margin-right: 0px;
+  margin-left: 0px;
+
+}
+.twoP{
+display:flex;
+flex-wrap: wrap;
+width: 75%;
+}
